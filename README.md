@@ -1,5 +1,5 @@
 
-<img src="images/gercek_kesit.png" alt="Icon" width="50" align="left" style="vertical-align: baseline;" /> 
+<img src="images/gercek_kesit.png" alt="Icon" width="50" align="left" style="vertical-align: bottom;" /> 
 
 # Gerçek Kesit Çizim Programı
 
