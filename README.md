@@ -1,4 +1,6 @@
+
 <img src="images/gercek_kesit.png" alt="Icon" width="50" align="left" /> 
+
 # Gerçek Kesit Çizim Programı
 
 Bu proje, jeoloji mühendisleri ve yer bilimleri uzmanları için tasarlanmış, jeolojik kesitlerin hızlı ve doğru bir şekilde çizilmesini sağlayan bir programdır. Gerçek Kesit Programı, kullanıcı dostu arayüzü ve kapsamlı özellikleriyle jeolojik kesitlerin detaylı bir şekilde çizilmesine yardımcı olur.
