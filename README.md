@@ -1,1 +1,1 @@
-# Jeolojik Kesit Çizim Programı
+# Kuyu Kesit Çizim Programı
