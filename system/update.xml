@@ -1,14 +1,14 @@
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
 <channel>
 <title>Gerçek Kesit Güncelleştirme Servisi</title>
-<link>https://raw.githubusercontent.com/TolgaCaliskan/Gercek_Kesit_Public/refs/heads/main/system/update.xml</link>
+<!--<link>https://raw.githubusercontent.com/TolgaCaliskan/Gercek_Kesit_Public/refs/heads/main/system/update.xml</link>-->
 <description>Örnek bir appcast dosyası.</description>
 <language>tr</language>
 <item>
 <title>Yeni Version 1.5.4</title>
 <sparkle:releaseNotesLink>https://raw.githubusercontent.com/TolgaCaliskan/Gercek_Kesit_Public/refs/heads/main/system/releasenotes.html</sparkle:releaseNotesLink>
-<pubDate>Tue, 15 Nov 2024 19:24:00 +0200</pubDate>
-<enclosure url="https://github.com/TolgaCaliskan/Gercek_Kesit_Public/releases/download/dummy/Splash.Test.exe" sparkle:version="1.5.4" sparkle:os="windows" />
+<pubDate>Tue, 15 Nov 2024 19:24:0 +0200</pubDate>
+<enclosure url="https://github.com/TolgaCaliskan/Gercek_Kesit_Public/releases/download/dummy/Splash_Test.exe" sparkle:version="1.1" sparkle:os="windows" />
 </item>
 </channel>
 </rss>
