@@ -8,7 +8,9 @@
 <title>Yeni Version 1.0.0</title>
 <sparkle:releaseNotesLink>https://raw.githubusercontent.com/TolgaCaliskan/Gercek_Kesit_Public/refs/heads/main/system/releasenotes.html</sparkle:releaseNotesLink>
 <pubDate>Tue, 18 Nov 2024 19:24:0 +0200</pubDate>
-<enclosure url="https://github.com/TolgaCaliskan/Gercek_Kesit_Public/releases/download/release/GercekKesitInstaller.exe" sparkle:version="1.0.0" sparkle:os="windows" />
+<enclosure url="https://github.com/TolgaCaliskan/Gercek_Kesit_Public/releases/download/release/GercekKesitInstaller.exe" sparkle:version="1.0.0" sparkle:dsaSignature="MD0CHQDTEfjWTBPkpKDAUShhcycTa8L+Mq0k9RQjdtvtAhwGPWcz53FfF0y/MpHr
+VcbO6LpqtZagh27rS7YT
+" sparkle:os="windows" />
 </item>
 </channel>
 </rss>
